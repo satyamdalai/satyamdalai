@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @satyamdalai
-- 👀 I’m interested in programming, web development and data science
+- 👀 I’m interested in tool development and exploring new tech
 - 🌱 I’m currently working as an Automation Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 Visit my [website](https://satyamdalai.me/) to get in touch with me...
